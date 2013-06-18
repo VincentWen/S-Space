@@ -58,6 +58,9 @@ public class IndexVectorUtil {
             ObjectOutputStream outStream = new ObjectOutputStream(fos);
             outStream.writeObject(wordToIndexVector);
             outStream.close();
+
+            System.out.println("Wrote " + wordToIndexVector.size() + " words");
+
         } catch (IOException ioe) {
             throw new IOError(ioe);
         }
@@ -71,9 +74,12 @@ public class IndexVectorUtil {
         try {
             FileInputStream fis = new FileInputStream(indexVectorFile);
             ObjectInputStream inStream = new ObjectInputStream(fis);
-            Map<String, TernaryVector> vectorMap = 
-                (Map<String, TernaryVector>) inStream.readObject();
+            Map<String, TernaryVector> vectorMap =
+                    (Map<String, TernaryVector>) inStream.readObject();
             inStream.close();
+
+            System.out.println("Loaded " + vectorMap.size() + " words");
+
             return vectorMap;
         } catch (IOException ioe) {
             throw new IOError(ioe);

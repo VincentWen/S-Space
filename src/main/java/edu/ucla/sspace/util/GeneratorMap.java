@@ -123,6 +123,7 @@ public class GeneratorMap<T> implements Map<String, T>, Serializable {
                     // Generate the index vector for this term and store it.
                     v = generator.generate();
                     termToItem.put((String) term, v);
+                    //System.out.println("Adding: " + (String) term + " value: " + v.toString());
                 }
             }
         }
@@ -154,16 +155,37 @@ public class GeneratorMap<T> implements Map<String, T>, Serializable {
      * Unsupported.
      */
     public T put(String key, T vector) {
-        throw new UnsupportedOperationException(
-                "Items may not be inserted into this GeneratorMap.");
+        if (!termToItem.containsKey(key)) {
+            //System.out.println("New key");
+
+
+            //System.out.println("Loading: " + key + " value: " + vector.toString());
+
+            termToItem.put(key, vector);
+        }
+
+        return vector;
+
+
+        //throw new UnsupportedOperationException(
+        //        "Items may not be inserted into this GeneratorMap.");
     }
 
     /**
      * Unsupported.
      */
     public void putAll(Map<? extends String, ? extends T> m) {
-        throw new UnsupportedOperationException(
-                "Items may not be inserted into this GeneratorMap.");
+
+        for (String key : m.keySet()) {
+            this.put(key, m.get(key));
+        }
+
+        //for (Map.Entry<String, T> entry : m) {
+        //
+        //}
+
+        //throw new UnsupportedOperationException(
+        //        "Items may not be inserted into this GeneratorMap.");
     }
 
     /**

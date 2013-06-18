@@ -181,4 +181,14 @@ public class TernaryVector
             array[n] = -1;
         return array;
     }
+
+    @Override
+    public String toString() {
+        String vs = "";
+        for (int p : positiveDimensions)
+            vs += "1" + " ";
+        for (int n : negativeDimensions)
+            vs += "-1" + " ";
+        return vs;
+    }
 }
