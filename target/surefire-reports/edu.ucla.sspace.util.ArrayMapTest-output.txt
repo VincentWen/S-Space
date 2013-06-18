@@ -1,0 +1,2 @@
+array: [foo, bar, baz], size: 3
+array: [null, null, null], size: 0

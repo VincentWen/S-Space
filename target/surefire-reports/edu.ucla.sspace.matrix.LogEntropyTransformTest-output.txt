@@ -1,0 +1,6 @@
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.LogEntropyTransform$LogEntropyGlobalTransform <init>
+INFO: Computing the total row counts
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.LogEntropyTransform$LogEntropyGlobalTransform <init>
+INFO: Computing the entropy of each row
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.LogEntropyTransform$LogEntropyGlobalTransform <init>
+INFO: Scaling the entropy of the rows

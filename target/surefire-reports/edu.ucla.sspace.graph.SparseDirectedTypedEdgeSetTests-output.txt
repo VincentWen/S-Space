@@ -1,0 +1,9 @@
+cache before: {type-1=0, type-2=1, type-4=3, type-3=2}
+cache after clear: {}
+cache after deserialization: {type-1=0, type-2=1, type-4=3, type-3=2}
+cache before: {type-1=0, type-2=1, type-4=3, type-3=2}
+cache after clear: {}
+cache after deserialization: {type-1=0, type-2=1, type-4=2, type-3=3}
+cache before: {type-1=0, type-2=1, type-4=2, type-3=3}
+cache after clear: {}
+cache after deserialization: {type-1=1, type-2=0, type-4=2, type-3=3}

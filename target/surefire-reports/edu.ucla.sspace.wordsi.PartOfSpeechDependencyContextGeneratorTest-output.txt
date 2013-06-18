@@ -1,0 +1,9 @@
+Mr.-NNP
+Holt-NNP
+is-VBZ
+a-DT
+for-IN
+the-DT
+Literary-NNP
+Review-NNP
+in-IN

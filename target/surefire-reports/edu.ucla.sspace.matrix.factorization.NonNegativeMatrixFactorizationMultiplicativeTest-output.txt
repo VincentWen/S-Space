@@ -1,0 +1,540 @@
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 0
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 1
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 2
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 3
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 4
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 5
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 6
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 7
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 8
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 1ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 9
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 10
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 11
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 12
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 13
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 14
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 15
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 16
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 17
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 18
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 19
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 20
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 21
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 22
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 23
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 24
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 1ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 25
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 26
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 27
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 28
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating H matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 1: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 2: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 3: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Updating W matrix
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 4: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 5: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Step 6: 0ms
+六月 07, 2013 4:05:19 下午 edu.ucla.sspace.matrix.factorization.NonNegativeMatrixFactorizationMultiplicative factorize
+INFO: Finishedo processing outer loop: 29

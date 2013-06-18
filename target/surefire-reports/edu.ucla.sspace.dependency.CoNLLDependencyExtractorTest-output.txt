@@ -1,0 +1,30 @@
+Expected: [review:NNP<-NMOD--the:DT, review:NNP<-NMOD--literary:NNP, review:NNP<-ADV--in:IN, for:IN<-PMOD--review:NNP]
+relation: for:IN<-PMOD--review:NNP
+relation: review:NNP<-ADV--in:IN
+relation: review:NNP<-NMOD--the:DT
+relation: review:NNP<-NMOD--literary:NNP
+Expected: [is:VBZ<-SBJ--holt:NNP, is:VBZ<-PRD--columnist:NN, is:VBZ<-P--.:.]
+relation: is:VBZ<-PRD--columnist:NN
+relation: is:VBZ<-P--.:.
+relation: is:VBZ<-SBJ--holt:NNP
+Expected: [beskattning:N<-AT--individuell:AJ, beskattning:N<-ET--av:PR]
+relation: beskattning:N<-ET--av:PR
+relation: beskattning:N<-AT--individuell:AJ
+Expected: [is:VBZ<-SBJ--holt:NNP, is:VBZ<-PRD--columnist:NN, is:VBZ<-P--.:.]
+relation: is:VBZ<-PRD--columnist:NN
+relation: is:VBZ<-P--.:.
+relation: is:VBZ<-SBJ--holt:NNP
+Expected: [is:VBZ<-SBJ--holt:NNP, is:VBZ<-PRD--columnist:NN, is:VBZ<-P--.:.]
+relation: is:VBZ<-PRD--columnist:NN
+relation: is:VBZ<-P--.:.
+relation: is:VBZ<-SBJ--holt:NNP
+Expected: [beskattning:N<-AT--individuell:AJ, beskattning:N<-ET--av:PR]
+relation: beskattning:N<-ET--av:PR
+relation: beskattning:N<-AT--individuell:AJ
+Expected: [is:VBZ<-SBJ--holt:NNP, is:VBZ<-PRD--columnist:NN, is:VBZ<-P--.:.]
+relation: is:VBZ<-PRD--columnist:NN
+relation: is:VBZ<-P--.:.
+relation: is:VBZ<-SBJ--holt:NNP
+Expected: [beskattning:N<-AT--individuell:AJ, beskattning:N<-ET--av:PR]
+relation: beskattning:N<-ET--av:PR
+relation: beskattning:N<-AT--individuell:AJ

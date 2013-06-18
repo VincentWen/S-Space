@@ -1,0 +1,132 @@
+Anarchism SBJ is
+Anarchism SBJ is PRD philosophy
+Anarchism SBJ is P .
+is PRD philosophy
+is P .
+is SBJ Anarchism
+is PRD philosophy NMOD encompassing
+is PRD philosophy NMOD a
+is PRD philosophy NMOD political
+a NMOD philosophy
+a NMOD philosophy PRD is
+a NMOD philosophy NMOD encompassing
+a NMOD philosophy NMOD political
+political NMOD philosophy
+political NMOD philosophy PRD is
+political NMOD philosophy NMOD encompassing
+political NMOD philosophy NMOD a
+philosophy PRD is
+philosophy NMOD encompassing
+philosophy NMOD a
+philosophy NMOD political
+philosophy PRD is P .
+philosophy PRD is SBJ Anarchism
+philosophy NMOD encompassing OBJ theories
+encompassing NMOD philosophy
+encompassing OBJ theories
+encompassing NMOD philosophy PRD is
+encompassing NMOD philosophy NMOD a
+encompassing NMOD philosophy NMOD political
+encompassing OBJ theories CC and
+encompassing OBJ theories COORD attitudes
+theories OBJ encompassing
+theories CC and
+theories COORD attitudes
+theories OBJ encompassing NMOD philosophy
+theories COORD attitudes NMOD consider
+and CC theories
+and CC theories OBJ encompassing
+and CC theories COORD attitudes
+attitudes COORD theories
+attitudes NMOD consider
+attitudes COORD theories OBJ encompassing
+attitudes COORD theories CC and
+attitudes NMOD consider OBJ be
+attitudes NMOD consider SBJ which
+which SBJ consider
+which SBJ consider NMOD attitudes
+which SBJ consider OBJ be
+consider NMOD attitudes
+consider OBJ be
+consider SBJ which
+consider NMOD attitudes COORD theories
+consider OBJ be PRD unnecessary
+consider OBJ be SBJ state
+consider OBJ be VMOD to
+the NMOD state
+the NMOD state SBJ be
+state NMOD the
+state SBJ be
+state SBJ be OBJ consider
+state SBJ be PRD unnecessary
+state SBJ be VMOD to
+to VMOD be
+to VMOD be OBJ consider
+to VMOD be PRD unnecessary
+to VMOD be SBJ state
+be OBJ consider
+be PRD unnecessary
+be SBJ state
+be VMOD to
+be OBJ consider NMOD attitudes
+be OBJ consider SBJ which
+be PRD unnecessary P ,
+be PRD unnecessary COORD harmul
+be PRD unnecessary P ,
+be PRD unnecessary COORD and/
+be PRD unnecessary CC or
+be PRD unnecessary COORD undesirable
+be SBJ state NMOD the
+unnecessary PRD be
+unnecessary P ,
+unnecessary COORD harmul
+unnecessary P ,
+unnecessary COORD and/
+unnecessary CC or
+unnecessary COORD undesirable
+unnecessary PRD be OBJ consider
+unnecessary PRD be SBJ state
+unnecessary PRD be VMOD to
+, P unnecessary
+, P unnecessary PRD be
+, P unnecessary COORD harmul
+, P unnecessary COORD and/
+, P unnecessary CC or
+, P unnecessary COORD undesirable
+harmul COORD unnecessary
+harmul COORD unnecessary PRD be
+harmul COORD unnecessary P ,
+harmul COORD unnecessary P ,
+harmul COORD unnecessary COORD and/
+harmul COORD unnecessary CC or
+harmul COORD unnecessary COORD undesirable
+, P unnecessary
+, P unnecessary PRD be
+, P unnecessary COORD harmul
+, P unnecessary COORD and/
+, P unnecessary CC or
+, P unnecessary COORD undesirable
+and/ COORD unnecessary
+and/ COORD unnecessary PRD be
+and/ COORD unnecessary P ,
+and/ COORD unnecessary COORD harmul
+and/ COORD unnecessary P ,
+and/ COORD unnecessary CC or
+and/ COORD unnecessary COORD undesirable
+or CC unnecessary
+or CC unnecessary PRD be
+or CC unnecessary P ,
+or CC unnecessary COORD harmul
+or CC unnecessary P ,
+or CC unnecessary COORD and/
+or CC unnecessary COORD undesirable
+undesirable COORD unnecessary
+undesirable COORD unnecessary PRD be
+undesirable COORD unnecessary P ,
+undesirable COORD unnecessary COORD harmul
+undesirable COORD unnecessary P ,
+undesirable COORD unnecessary COORD and/
+undesirable COORD unnecessary CC or
+. P is
+. P is PRD philosophy
+. P is SBJ Anarchism

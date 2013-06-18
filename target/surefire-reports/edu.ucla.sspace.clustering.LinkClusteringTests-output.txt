@@ -1,0 +1,33 @@
+Computing dendogram merge 0/12
+Computing dendogram merge 1/12
+Computing dendogram merge 2/12
+Computing dendogram merge 3/12
+Computing dendogram merge 4/12
+Computing dendogram merge 5/12
+Computing dendogram merge 6/12
+Computing dendogram merge 7/12
+Computing dendogram merge 8/12
+Computing dendogram merge 9/12
+Computing dendogram merge 10/12
+Computing dendogram merge 11/12
+Node 0 is in clusters [0]
+Node 1 is in clusters [0]
+Node 2 is in clusters [0]
+Node 3 is in clusters [0, 1, 2]
+Node 4 is in clusters [1]
+Node 5 is in clusters [1]
+Node 6 is in clusters [2, 3]
+Node 7 is in clusters [3]
+Node 8 is in clusters [3]
+Solution 0 had density 0.000000
+Solution 1 had density 0.000000
+Solution 2 had density 0.000000
+Solution 3 had density 0.000000
+Solution 4 had density 0.153846
+Solution 5 had density 0.153846
+Solution 6 had density 0.153846
+Solution 7 had density 0.307692
+Solution 8 had density 0.615385
+Solution 9 had density 0.769231
+Solution 10 had density 0.241758
+Solution 11 had density 0.205128

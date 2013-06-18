@@ -1,0 +1,8 @@
+{apple=[3], banana=[4], cat=[0], catamaran=[2], category=[1]}
+[apple=3, banana=4, cat=0, catamaran=2, category=1]
+apple
+banana
+cat
+catamaran
+category
+{apple=[apple], banana=[banana], cat=[cat], catamaran=[catamaran], category=[category]}

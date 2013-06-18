@@ -1,0 +1,5 @@
+reverse case: (5->0)
+reverse case: (4->0)
+reverse case: (3->0)
+reverse case: (2->0)
+reverse case: (1->0)

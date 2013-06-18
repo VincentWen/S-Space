@@ -1,0 +1,8 @@
+六月 07, 2013 4:05:21 下午 edu.ucla.sspace.wordsi.WaitingWordsi clusterTerm
+INFO: Clustering term: cat
+六月 07, 2013 4:05:21 下午 edu.ucla.sspace.wordsi.WaitingWordsi clusterTerm
+INFO: Finished clustering term: cat
+六月 07, 2013 4:05:21 下午 edu.ucla.sspace.wordsi.WaitingWordsi clusterTerm
+INFO: Finished creating centroids for term: cat
+六月 07, 2013 4:05:21 下午 edu.ucla.sspace.wordsi.WaitingWordsi processSpace
+INFO: Finished processing all terms
